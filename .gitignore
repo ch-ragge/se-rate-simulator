@@ -32,6 +32,9 @@ Thumbs.db
 *.p12
 *.pfx
 
+# Deploy script (contains no secrets but kept local)
+deploy.ps1
+
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts

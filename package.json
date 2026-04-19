@@ -1,14 +1,12 @@
 {
-  "name": "claudemd-generator",
+  "name": "se-rate-simulator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "15.5.15",
@@ -21,7 +19,6 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.5.15",
-    "prettier": "^3.5.3",
     "tailwindcss": "^4.1.4",
     "@tailwindcss/postcss": "^4.1.4",
     "typescript": "^5"
